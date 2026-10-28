@@ -1,4 +1,4 @@
-# 🥗 PlanEaten - Platform Pemesanan dan Perencanaan Catering Mingguan
+# PlanEaten - Platform Pemesanan dan Perencanaan Catering Mingguan
 
 **PlanEaten** adalah aplikasi berbasis web yang dirancang untuk menjawab tantangan manajemen pemesanan usaha catering dan mempermudah pelanggan dalam merencanakan pola makan harian secara fleksibel, sehat, dan terstruktur selama seminggu penuh. 
 ---
